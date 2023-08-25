@@ -22,6 +22,10 @@ print(bool(15))
 # [] empty list, {} empty dictionary, () empty tuple, 
 # and set() empty set.
 
+"""
+This is the test section of github commit (do not worry a lot)
+"""
+
 my_list = []
 if bool(my_list):
     print("The list is not empty")
